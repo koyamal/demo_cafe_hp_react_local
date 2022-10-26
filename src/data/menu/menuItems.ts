@@ -21,11 +21,11 @@ export const MenuItems: Menu[] = [
     price: "170",
     allergens: [],
     nutritions: {
-      calories: "125kcal",
-      proteins: "12g",
+      calories: "103kcal",
+      proteins: "2g",
       fat: "3g",
-      sodium: "45mg",
-      carbohydrate: "31g"
+      sodium: "4mg",
+      carbohydrate: "11g"
     },
     type: "drink"
   },
@@ -35,11 +35,11 @@ export const MenuItems: Menu[] = [
     price: "250",
     allergens: ["wheat", "egg", "dairy"],
     nutritions: {
-      calories: "125kcal",
-      proteins: "12g",
-      fat: "3g",
-      sodium: "45mg",
-      carbohydrate: "31g"
+      calories: "305kcal",
+      proteins: "9g",
+      fat: "29g",
+      sodium: "40mg",
+      carbohydrate: "30g"
     },
     type: "food"
   },
@@ -49,11 +49,11 @@ export const MenuItems: Menu[] = [
     price: "280",
     allergens: ["wheat", "egg", "dairy"],
     nutritions: {
-      calories: "125kcal",
-      proteins: "12g",
-      fat: "3g",
+      calories: "256kcal",
+      proteins: "8g",
+      fat: "25g",
       sodium: "45mg",
-      carbohydrate: "31g"
+      carbohydrate: "131g"
     },
     type: "food"
   }
